@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abbas0p
 - I am currently studying computer science in the University of South Wales and I'm in my first year.
-- 👀 I’m interested in games development and software engineering. 
-- 🌱 I’m currently learning c++ and SQL.
+- 👀 I’m interested in AI and Machine Learning. 
+- 🌱 My favorite languages are c++ and c#.
 - Recent Projects - I'm currently in the process of developing a First Person horror game on Unity.
 - Hobbies - I enjoy Rock Climbing and Hiking.
 
